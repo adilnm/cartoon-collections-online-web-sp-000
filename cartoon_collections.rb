@@ -26,4 +26,3 @@ cheese_types.each do |x|
 
 end
 end
-end
