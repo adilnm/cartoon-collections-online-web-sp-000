@@ -24,5 +24,5 @@ cheese_types.each do |x|
 else 
   return
   nil
-
+end
 end
