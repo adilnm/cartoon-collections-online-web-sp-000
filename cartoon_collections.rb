@@ -24,7 +24,6 @@ while count< cheese_types.length
   return cheese_types[count] if array.include?(cheese_types[count])
 count+=1
  
-  return nil
 end
 end
 
