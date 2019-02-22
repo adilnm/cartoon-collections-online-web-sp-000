@@ -26,21 +26,3 @@ i+=1
   
 end
 end
-
-  i = 0
-  cheese_types = ["cheddar", "gouda", "camembert"]
-  while i < cheese_types.length
-    return cheese_types[i] if array.include?(cheese_types[i])
-    i += 1
-  end
-
-
-
-
-
-
-
-
-
-
-
