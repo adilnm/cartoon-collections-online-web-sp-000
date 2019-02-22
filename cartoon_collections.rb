@@ -23,7 +23,7 @@ def find_the_cheese(array)# code an argument here
 while count< cheese_types.length
   return cheese_types[count] if array.include?(cheese_types[count])
 count+=1
-else 
+ 
   return nil
 end
 end
